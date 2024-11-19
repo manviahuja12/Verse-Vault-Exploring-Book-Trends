@@ -19,6 +19,11 @@ SQL queries were used to uncover insights, which were then exported to Excel for
 ### Author Analysis
 - **Top Authors by Book Count**: Identified the authors with the highest number of books published.
 - **Best-Selling Authors**: Ranked authors based on their total book sales.
+- **Authors with Multiple Genres**: Found authors who write in more than one genre.
+
+### Book Analysis
+- **Highest-Rated Books**: Identified books with ratings of 4.5 or above.
+- **Books After 2000**: Counted the number of books published after 2000.
 
 ### Genre Trends
 - **Top Genres by Popularity**: Highlighted the genres with the highest number of books.
@@ -59,8 +64,4 @@ Using the insights derived from SQL, the Excel dashboard was built to visualize 
 ## Summary
 This project demonstrates how SQL and Excel can work together to analyze and visualize trends from a structured database. SQL was used to extract key insights related to sales, ratings, and publishing trends, while Excel was used to create a dynamic dashboard for visualizing these insights. This project highlights the value of combining SQL analysis and Excel dashboards to uncover patterns and present data effectively.
 
-## Getting Started
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/verse-vault.git
 
