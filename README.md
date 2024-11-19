@@ -2,7 +2,7 @@
 Analyzing a book database using SQL and Excel to uncover trends in book sales, ratings, genres, and authors.
 
 ## Objective
-The goal of this project was to analyze a book database, extracting actionable insights on total sales, book ratings, publication trends, and popular genres/authors using SQL. The insights were visualized through an interactive Excel dashboard for a comprehensive overview of the data.
+The goal of this project was to analyze a book database to uncover actionable insights about sales, ratings, genres, and authors using SQL. The insights were visualized through an interactive Excel dashboard for a comprehensive overview of the data.
 
 ## Technology Used
 - **Database Management System**: MySQL
@@ -31,7 +31,7 @@ SQL queries were used to uncover insights, which were then exported to Excel for
 
 ### Sales Analysis
 - **Top-Selling Books**: Extracted the books with the highest revenue.
-- **Yearly Trends**: Analyzed total book sales by year to identify peak publishing periods.
+- **Yearly Trends**: Analyzed total book sales by year to identify publishing trends and peak years.
 
 ### Ratings Analysis
 - **Top Rated Books**: Identified books with the highest average ratings.
@@ -58,8 +58,8 @@ Using the insights derived from SQL, the Excel dashboard was built to visualize 
 - **Books Published by Year**: A line chart showing publishing trends over time.
 
 ### Interactive Features:
-- **Timeline**: Allows filtering data by publication years (1938–2009).
-- **Slicers**: Filter the data by authors and genres.
+- **Timeline**: Allows filtering the data based on publication years (from 1938 to 2009), helping to visualize trends over time.
+- **Slicers**: Interactive filters that enable users to filter the data by specific authors or genres, giving a focused view of selected data subsets.
 
 ## Summary
 This project demonstrates how SQL and Excel can work together to analyze and visualize trends from a structured database. SQL was used to extract key insights related to sales, ratings, and publishing trends, while Excel was used to create a dynamic dashboard for visualizing these insights. This project highlights the value of combining SQL analysis and Excel dashboards to uncover patterns and present data effectively.
